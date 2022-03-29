@@ -1,3 +1,3 @@
-# picoCTF_Writeups
+# **picoCTF Writeups**
 
-## 2022 Pico Writeups
+### 2022 Pico Writeups by Skabodalo and Obamacare
