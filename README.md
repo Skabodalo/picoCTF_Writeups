@@ -5,4 +5,7 @@
 
 ## Contents
 
-### 
+### General Skills:
+
+[obedient Cat](https://github.com/Skabodalo/picoCTF_Writeups/blob/main/General_Skills/Obedient_Cat.md)
+
